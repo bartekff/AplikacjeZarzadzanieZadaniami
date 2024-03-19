@@ -1,25 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Aplikacja do zarządzania zadaniami napisana przy użyciu technologii Ruby on Rails. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Wymagania Funkcjonalne:
+● Użytkownik ma możliwość zalogowania się, stworzenia nowego konta oraz
+wylogowania się
+● Użytkownik może edytować swoje dane logowania lub usunąć konto
+● System wyświetla alert po zalogowaniu się oraz po wylogowaniu
+● Użytkownik może wyświetlać zadania oraz edytować ich status
+● Użytkownik może dodawać nowe zadania i usuwać stare
+● System sprawdza czy nie upłynął czas wykonania zadania, jeżeli upłynął to może
+zmienić jego status
+● Użytkownik może sortować zadania lub zmieniać sposób ich wyświetlania
 # ProjektAplikacjeMobilne
